@@ -1,2 +1,2 @@
 # Future-prediction
-Future prediction game using Javascript.
+Future prediction game using JavaScript.
